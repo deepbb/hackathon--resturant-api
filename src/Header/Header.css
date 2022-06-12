@@ -1,0 +1,25 @@
+.header{
+    color: #666;
+}
+.header-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text-sm{
+    position: absolute;
+    top: 11%;
+    font-size: 40px;
+}
+.text-lg {
+    position: absolute;
+    top: 15%;
+    font-size: 80px;
+    font-style: italic;
+}
+.header-img{
+    margin-top: 95px;
+    object-fit: cover;
+    width: 100%;
+    height: 80vh;
+}

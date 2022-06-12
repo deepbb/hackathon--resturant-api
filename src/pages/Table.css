@@ -1,0 +1,21 @@
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.single{
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around
+}
+.linkScan{
+    text-decoration: none;
+    margin-top: 10px;
+    background-color: green;
+    color:white;
+    border-radius: none;
+
+}

@@ -1,0 +1,4 @@
+.foodItems{
+    display: flex;
+    flex-wrap: wrap;
+}
